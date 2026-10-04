@@ -1,0 +1,1 @@
+c4910edd5d4498bbc8303cf6483e23080b175c689bb1ca26e8b14276b31bdc76  NexusChat-2.4.0-macOS-arm64.zip
